@@ -1,0 +1,2 @@
+# smart-farming-agro-robot
+Smart farmer assistant robot uses set of various sensors and processor, which combinedly take various values from the field and determines the condition of the soil, weather and gives required measures to be taken by the farmer. In automatic mode, the robot can operate the field condition by itself, like operating the water pump, spreading fertilizer or pesticide in required amount in the absence of the farmer.  This robot communicates with the farmer’s mobile phone and sends regular feedback about the field condition. 
